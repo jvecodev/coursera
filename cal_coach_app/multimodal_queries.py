@@ -12,7 +12,7 @@ from flask import Flask, render_template, request, redirect, url_for, flash
 
 credentials = Credentials(
                    url = "https://us-south.ml.cloud.ibm.com",
-                   api_key = "XQO-C1-2NcOcwP-X1qBL5Ju7Thhxp5ghoX6d7W-waJut" # Normally you'd put an API key here, but we've got you covered here
+                   api_key = "" 
                   )
 client = APIClient(credentials)
 
