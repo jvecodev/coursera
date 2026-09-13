@@ -1,0 +1,56 @@
+Leitura: Prepare-se para Enviar Seu Projeto
+Estimativa de tempo: 5 min
+
+Antes de enviar seu trabalho, certifique-se de ter concluído todos os laboratórios práticos para este projeto. Este projeto Capstone vale 60 pontos e inclui 12 tarefas que fazem referência a todos os laboratórios abordados neste curso. Seu projeto final será avaliado por IA, fornecendo feedback rápido, preciso e construtivo sobre seu desempenho.
+
+Cada pergunta na tarefa exigirá que você anexe capturas de tela, conforme instruído nos laboratórios. Esta tarefa final ajudará a validar sua compreensão dos conceitos e processos aprendidos ao longo do curso.
+
+Aqui está a distribuição de pontos para as perguntas nos laboratórios do curso:
+
+Q1. Envie a captura de tela intitulada “M1L1_structure_for_loop.jpg” (ou .png) do laboratório “Estruturar Dados de Restaurante Não Estruturados com um LLM” do Módulo 1. A captura de tela deve mostrar o loop usado para gerar e validar saídas JSON para cada restaurante usando o LLM. (5 pontos)
+
+Q2. Envie a captura de tela intitulada “M1L2_caption_all_recipes.jpg” (ou .png) do laboratório “Processar Dados Multimodais com LLMs” do Módulo 1. A captura de tela deve mostrar o loop for que chama o LLM de visão para gerar legendas de imagens e atribui as legendas geradas a cada entrada de receita no conjunto de dados JSON. (5 pontos)
+
+Q3. Envie a captura de tela intitulada “M1L3_new_data_entry_process.jpg” (ou .png) do laboratório “Construir uma Interface de Gerenciamento de Dados em Linha de Comando para Dados de Restaurante” do Módulo 1. A captura de tela deve mostrar a implementação de uma função que usa um LLM para gerar JSON estruturado a partir de um parágrafo sobre restaurante, valida a saída e inclui um loop para reparar automaticamente respostas JSON inválidas. (5 pontos)
+
+Q4. Envie a captura de tela intitulada “M2L1_multimodal_vector_index.jpg” (ou .png) do laboratório “Construir um Índice Vetorial Multimodal” do Módulo 2. A captura de tela deve mostrar claramente: 
+
+Criação da coleção Chroma restaurant_articles 
+
+Criação da coleção Chroma food_images 
+
+A mensagem de saída final: “Construção do Índice Vetorial Multimodal COMPLETA”  (5 pontos)
+
+Q5. Envie a captura de tela intitulada “M2L2_similarity_retrieval.jpg” (ou .png) do laboratório “Recuperação de Similaridade com Filtragem de Metadados” do Módulo 2. A captura de tela deve mostrar claramente: 
+
+Uma consulta de recuperação 
+
+Resultados de restaurante recuperados Top-K 
+
+A mensagem de saída final “Recuperação de Similaridade com Filtragem de Metadados COMPLETA”  (5 pontos)
+
+Q6. Envie a captura de tela intitulada “M2L3_multimodal_fusion_results.jpg” (ou .png) do laboratório “Fusão Multimodal de Similaridade e Classificação de Recuperação” do Módulo 2. A captura de tela deve mostrar os resultados de classificação para diferentes configurações de peso, juntamente com a mensagem final de conclusão. (5 pontos)
+
+Q7. Envie a captura de tela intitulada “M3L1_food_style_expert_goal.jpg” (ou .png) do laboratório “Projetar Agentes Especializados para um Sistema de Recomendação” do Módulo 3. A captura de tela deve mostrar a configuração do agente Food Style Expert, incluindo os campos de papel, objetivo e história de fundo. (5 pontos)
+
+Q8. Envie a captura de tela intitulada “M3L2_node_analyze_styles.jpg” (ou .png) do laboratório “Implementar e Testar um Sistema de Recomendação Multi-Agente” do Módulo 3. A captura de tela deve mostrar a implementação da função node_analyze_styles, especificamente a construção da user_message. (5 pontos)
+
+Q9. Envie a captura de tela intitulada “M3L3_preference_extraction_test.jpg” (ou .png) do laboratório “Construir uma Interface de Chatbot para o Sistema de Recomendação” do Módulo 3. A captura de tela deve mostrar a implementação do código usado para testar a função extract_preferences. (5 pontos) 
+ 
+Q10. Envie a captura de tela intitulada “M4L1_Configure_Tools_Data_MCP_Server.jpg” (ou .png) do laboratório “Construir um Servidor MCP” do Módulo 4. A captura de tela deve mostrar a execução bem-sucedida de uma consulta de busca retornando um resultado formatado em JSON. (5 pontos)
+
+Q11. Envie a captura de tela intitulada M4L2_Build_Test_MCP_Client.jpg (ou .png) do laboratório “Construir um Cliente MCP” do Módulo 4. A captura de tela deve mostrar claramente: 
+
+A descoberta e verificação bem-sucedidas das ferramentas operacionais necessárias 
+
+A identificação de recursos disponíveis (por exemplo, mapas culinários ou URIs de dados) 
+
+A confirmação das raízes configuradas, indicando que o servidor está apontando para o diretório do projeto correto.  (5 pontos)
+
+Q12. Envie a captura de tela intitulada “M4L3_Design_LLM_MCP_Host.jpg” (ou .png) do laboratório “Construir uma Aplicação Completa MCP” do Módulo 4. A captura de tela deve mostrar claramente:  
+
+A interface funcional do Chatbot, incluindo uma consulta do usuário e uma resposta correspondente do agente  
+
+Os elementos de navegação ou entrada, como o campo de entrada de texto e os botões de sugestão de ação rápida  
+
+A marcação e layout completos da UI, incluindo o título da aplicação e o rodapé "Construído com Gradio"  (5 pontos)
